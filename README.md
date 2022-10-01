@@ -1,6 +1,6 @@
-# 🧁 Confeitaria-Single-page
+# 🧁 Confeitaria-LandPage
 
-Site single page de uma confeitaria ficticia
+Site com uma única pagina de uma confeitaria ficticia
 
 # 📝 Tecnologias
 
